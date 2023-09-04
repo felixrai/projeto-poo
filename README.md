@@ -4,11 +4,11 @@ Alunas:
 Raissa Felix Santos , 
 Jirlaynne Dhamylle dos Santos,
 Luiza Alves da Rocha 
-Turma 921A
+Turma 922A
 
 Perguntas 
 1. Tudo o que foi pedido foi realizado? Faltou algo?
-   Sim, todas as funcionalidades estão funcionando corretamente 
+   Não, todas as funcionalidades estão funcionando corretamente 
 
 3. Há algum problema/erro identificado?
 não apresenta nenhum erro na funcionalidade 
