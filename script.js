@@ -147,7 +147,7 @@ function limparCamposInputs() {
   emailInput.value = '';
 }
 
-// Exclui contato 
+
 function excluirContato(nome) {
   const indice = contatos.findIndex(c => c.nome === nome);
   if (indice !== -1) {
